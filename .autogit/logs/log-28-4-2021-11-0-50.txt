@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 28 2021 11:00:50 GMT+0200 (heure d’été d’Europe centrale)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-28-4-2021-9-59-45.txt
+
+
+Deleted files:
+
+
+Renamed files:
