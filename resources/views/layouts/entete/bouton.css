@@ -1,0 +1,96 @@
+.text1{
+    color:orange;
+    text-align:center;
+    text-decoration: underline;
+}
+.text2{  
+    color: red;
+    text-decoration: underline;
+    
+
+text-align:center;
+}
+.text3{color:green;
+
+    text-align:center;
+    text-decoration: underline;
+    
+
+}
+#card{
+    text-align:center
+}
+body{
+     
+    text-align:center;
+    text-decoration-color: black;
+}
+.number{
+    color:black;
+    font-weight:bold;
+    text-align:center;
+    
+
+}
+.col{
+    color:rgb(153, 0, 255);
+    text-align:center;
+
+}
+.slider {
+    animation: glisse 20s infinite;
+    text-decoration: white;
+}
+
+@keyframes glisse {
+0%  {
+    transform:translateX(0px);
+    }
+50% {
+    transform:translateX(450px);
+    }
+
+}
+    
+    .btn {
+        min-width: 250px;
+        text-decoration: center;
+    }
+   
+   .menu1{
+       text-align:left;
+       background-color: orange;
+       
+    }
+   
+   .menu2{
+       text-align:left;
+       background-color: red;
+      
+    }
+
+   
+   .menu3{
+       text-align:left;
+       background-color: green;
+      
+   }
+li{
+    color:white;
+}
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
